@@ -1,0 +1,14 @@
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\bin\Debug\CBS_Africa_Calculator.exe.config
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\bin\Debug\CBS_Africa_Calculator.exe
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\bin\Debug\CBS_Africa_Calculator.pdb
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.csprojAssemblyReference.cache
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.exe
+C:\Users\MSekhwari\source\repos\CBS_Africa_Calculator\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.pdb
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\bin\Debug\CBS_Africa_Calculator.exe.config
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\bin\Debug\CBS_Africa_Calculator.exe
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\bin\Debug\CBS_Africa_Calculator.pdb
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.csprojAssemblyReference.cache
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.exe
+C:\Users\MSekhwari\Downloads\Calculator_Assessment_-main\Calculator_Assessment_-main\CBS_Africa_Calculator\obj\Debug\CBS_Africa_Calculator.pdb
